@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Binit Kumar Nayak</h1>
-<h3 align="center">Web Developer | ML Enthusiast | Building things that (mostly) work on the first try</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0285FF,100:E60023&height=180&section=header&text=Binit%20Kumar%20Nayak&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" alt="header" />
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0285FF&center=true&vCenter=true&width=600&lines=Building+cool+websites+one+bug+at+a+time;Currently+learning+Machine+Learning;Ask+me+about+HTML%2C+Python%2C+Java" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -98,8 +101,20 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/BINIT1235/BINIT1235/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> ⚙️ **Setup note:** this animated snake needs a one-time GitHub Action in your repo. See the "How to enable the snake animation" section below.
+
+---
+
 <p align="left">
 <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=BINIT1235&icon=0&color=0" /></a>
 </p>
 
 <p align="center"><i>Proudly built with <a href="https://gprm.itsvg.in">GPRM</a></i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E60023,100:0285FF&height=100&section=footer" alt="footer" />
