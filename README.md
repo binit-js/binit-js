@@ -101,18 +101,8 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/binit-js/binit-js/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> ⚙️ **Setup note:** this animated snake needs a one-time GitHub Action in your repo. See the "How to enable the snake animation" section below.
-
----
-
 <p align="left">
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=binit-js&icon=0&color=0" /></a>
+<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=binit-js&icon=0&color=blue" /></a>
 </p>
 
 <p align="center"><i>Proudly built with <a href="https://gprm.itsvg.in">GPRM</a></i></p>
