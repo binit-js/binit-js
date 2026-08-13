@@ -79,16 +79,16 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.shion.dev/api?username=BINIT1235&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BINIT1235&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
+<img src="https://github-readme-stats.shion.dev/api?username=binit-js&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=binit-js&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
 </p>
 
 <p align="left">
-<img src="https://streak-stats.demolab.com/?user=BINIT1235&theme=dark&hide_border=false" />
+<img src="https://streak-stats.demolab.com/?user=binit-js&theme=dark&hide_border=false" />
 </p>
 
 <p align="left">
-<img src="https://github-contributor-stats.vercel.app/api?username=BINIT1235&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=binit-js&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
@@ -104,7 +104,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BINIT1235/BINIT1235/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/binit-js/binit-js/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 > ⚙️ **Setup note:** this animated snake needs a one-time GitHub Action in your repo. See the "How to enable the snake animation" section below.
@@ -112,7 +112,7 @@
 ---
 
 <p align="left">
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=BINIT1235&icon=0&color=0" /></a>
+<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=binit-js&icon=0&color=0" /></a>
 </p>
 
 <p align="center"><i>Proudly built with <a href="https://gprm.itsvg.in">GPRM</a></i></p>
