@@ -2,14 +2,14 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0285FF,100:E60023&height=150&section=header&text=Binit%20Kumar%20Nayak&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&descSize=17"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0285FF,100:E60023&height=150&section=header&text=Binit%20Kumar%20Nayak&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&descSize=30"
   alt="Binit Kumar Nayak"
 />
 
 <br>
 
 <img
-  src="./assets/portrait-circle.svg"
+  src="me.jpg"
   width="190"
   height="190"
   alt="Binit Kumar Nayak"
