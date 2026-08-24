@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "Crop-Prediction",
+      "description": "Machine learning project for predicting suitable crops from agricultural and environmental data."
+    },
+    {
+      "repo": "Weather-Intelligence",
+      "description": "Full-stack weather application built with Node.js, Express and OpenWeatherMap API."
+    },
+    {
+      "repo": "library",
+      "description": "Smart Library Management System built with React, Vite and Tailwind CSS with intelligent book recommendations."
+    },
+    {
+      "repo": "furniture",
+      "description": "Python-based furniture management web application with templates, database logic and user management."
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Binit Kumar Nayak · Profile Preview</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 24px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #0d1117;
+      color: #f0f6fc;
+    }
+
+    main {
+      width: 100%;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    section {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 18px;
+      padding: 24px;
+      margin: 20px 0;
+    }
+
+    h1 {
+      text-align: center;
+      margin: 10px 0 30px;
+    }
+
+    h2 {
+      margin-top: 0;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 35px 20px;
+    }
+
+    .portrait {
+      width: 220px;
+      height: 220px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 3px solid #0285ff;
+      display: block;
+      margin: 0 auto 20px;
+    }
+
+    .hero h2 {
+      margin: 10px 0 5px;
+      font-size: 28px;
+    }
+
+    .hero p {
+      color: #8b949e;
+      margin: 0;
+      font-size: 16px;
+    }
+
+    .subtitle {
+      margin-top: 8px !important;
+      font-size: 14px !important;
+    }
+
+    img {
+      max-width: 100%;
+      display: block;
+      margin: auto;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .project-card {
+      width: 100%;
+    }
+
+    .links {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .links a {
+      color: #f0f6fc;
+      text-decoration: none;
+      padding: 8px 14px;
+      border: 1px solid #30363d;
+      border-radius: 10px;
+      background: #0d1117;
+    }
+
+    .links a:hover {
+      border-color: #0285ff;
+    }
+
+    @media (max-width: 700px) {
+      body {
+        padding: 12px;
+      }
+
+      section {
+        padding: 16px;
+        margin: 14px 0;
+      }
+
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .portrait {
+        width: 170px;
+        height: 170px;
+      }
+
+      .hero h2 {
+        font-size: 23px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<main>
+
+  <!-- Header -->
+  <section class="hero">
+
+    <img
+      class="portrait"
+      src="me.jpg"
+      alt="Binit Kumar Nayak"
+    >
+
+    <h2>Binit Kumar Nayak</h2>
+
+    <p>Web Developer · ML Enthusiast</p>
+
+    <p class="subtitle">
+      Building cool websites one bug at a time · Currently learning Machine Learning
+    </p>
+
+    <div class="links">
+      <a href="https://github.com/binit-js" target="_blank">
+        GitHub
+      </a>
+
+      <a href="https://linkedin.com/in/binit-kumar-nayak" target="_blank">
+        LinkedIn
+      </a>
+
+      <a href="https://instagram.com/bin_it.exe" target="_blank">
+        Instagram
+      </a>
+
+      <a href="mailto:binitkumarnayak1235@gmail.com">
+        Email
+      </a>
+    </div>
+
+  </section>
+
+
+  <!-- About -->
+  <section>
+
+    <h2>🚀 About Me</h2>
+
+    <p>
+      I'm focused on web development and currently exploring
+      Machine Learning. I enjoy building practical projects,
+      experimenting with new technologies and turning ideas into
+      working applications.
+    </p>
+
+    <p>
+      Ask me about HTML, Python or Java.
+    </p>
+
+  </section>
+
+
+  <!-- Skills -->
+  <section>
+
+    <h2>🛠️ Skills</h2>
+
+    <div class="grid">
+
+      <img
+        src="assets/radar-dark.svg"
+        alt="Self-rated skills radar"
+      >
+
+      <img
+        src="assets/radar-langs-dark.svg"
+        alt="GitHub language radar"
+      >
+
+    </div>
+
+  </section>
+
+
+  <!-- GitHub Stats -->
+  <section>
+
+    <h2>📊 GitHub Stats</h2>
+
+    <img
+      src="assets/stats-dark.svg"
+      alt="GitHub statistics"
+    >
+
+  </section>
+
+
+  <!-- Projects -->
+  <section>
+
+    <h2>🚀 Featured Projects</h2>
+
+    <div class="grid">
+
+      <img
+        class="project-card"
+        src="assets/card-project-1-dark.svg"
+        alt="Crop Prediction project"
+      >
+
+      <img
+        class="project-card"
+        src="assets/card-project-2-dark.svg"
+        alt="Weather Intelligence project"
+      >
+
+      <img
+        class="project-card"
+        src="assets/card-project-3-dark.svg"
+        alt="Smart Library Management System project"
+      >
+
+      <img
+        class="project-card"
+        src="assets/card-project-4-dark.svg"
+        alt="Furniture project"
+      >
+
+    </div>
+
+  </section>
+
+
+  <!-- Footer -->
+  <section style="text-align:center">
+
+    <p>
+      <i>Built with Python, GitHub and a lot of debugging ☕</i>
+    </p>
+
+  </section>
+
+</main>
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+{
+  "languages": [
+    {
+      "name": "Python",
+      "value": 85
+    },
+    {
+      "name": "JavaScript",
+      "value": 75
+    },
+    {
+      "name": "HTML",
+      "value": 70
+    },
+    {
+      "name": "CSS",
+      "value": 65
+    },
+    {
+      "name": "Java",
+      "value": 60
+    },
+    {
+      "name": "C",
+      "value": 45
+    },
+    {
+      "name": "R",
+      "value": 35
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360"><rect x="1" y="1" width="898" height="358" rx="24" fill="#0D1117" stroke="#30363D"/><rect x="1" y="1" width="8" height="358" rx="4" fill="#0285FF"/><text x="45" y="62" fill="#F0F6FC" font-family="system-ui" font-size="28" font-weight="700">binit-js · GitHub snapshot</text><text x="45" y="94" fill="#8B949E" font-family="system-ui" font-size="15">Generated from the GitHub REST API</text>
+<text x="55" y="145" fill="#8B949E" font-family="system-ui" font-size="15">Public repositories</text>
+<text x="845" y="145" text-anchor="end" fill="#F0F6FC" font-family="system-ui" font-size="20" font-weight="700">12</text>
+<text x="55" y="193" fill="#8B949E" font-family="system-ui" font-size="15">Followers</text>
+<text x="845" y="193" text-anchor="end" fill="#F0F6FC" font-family="system-ui" font-size="20" font-weight="700">0</text>
+<text x="55" y="241" fill="#8B949E" font-family="system-ui" font-size="15">Following</text>
+<text x="845" y="241" text-anchor="end" fill="#F0F6FC" font-family="system-ui" font-size="20" font-weight="700">0</text>
+<text x="55" y="289" fill="#8B949E" font-family="system-ui" font-size="15">Public gists</text>
+<text x="845" y="289" text-anchor="end" fill="#F0F6FC" font-family="system-ui" font-size="20" font-weight="700">0</text>
+</svg>

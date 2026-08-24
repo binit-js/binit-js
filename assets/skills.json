@@ -1,0 +1,32 @@
+{
+  "skills": [
+    {
+      "name": "Python",
+      "value": 85
+    },
+    {
+      "name": "JavaScript",
+      "value": 78
+    },
+    {
+      "name": "React",
+      "value": 75
+    },
+    {
+      "name": "HTML/CSS",
+      "value": 82
+    },
+    {
+      "name": "Machine Learning",
+      "value": 60
+    },
+    {
+      "name": "Java",
+      "value": 68
+    },
+    {
+      "name": "SQL",
+      "value": 70
+    }
+  ]
+}
