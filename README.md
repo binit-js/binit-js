@@ -10,7 +10,7 @@
 
 <!-- PORTRAIT -->
 <img
-  src="./assets/portrait.svg"
+  src="me.jpg"
   width="220"
   alt="Binit Kumar Nayak portrait"
 />
@@ -333,55 +333,6 @@ Hi, I'm **Binit Kumar Nayak**, a developer interested in building useful web app
 
 ---
 
-## `~/ projects`
-
-### 🌱 Crop Prediction
-
-Machine Learning project focused on predicting suitable crops using agricultural and environmental data.
-
-**Tech:** Python · Machine Learning · Scikit-learn
-
-<a href="https://github.com/binit-js/Crop-Prediction">
-View Project →
-</a>
-
----
-
-### 🌦️ Weather Intelligence
-
-A weather application providing weather information, forecasts and location-based weather data.
-
-**Tech:** JavaScript · Web Development
-
-<a href="https://github.com/binit-js/Wheather-Intelligence">
-View Project →
-</a>
-
----
-
-### 📚 Smart Library Management System
-
-A modern library management application focused on book management and library functionality.
-
-**Tech:** React · Vite · Tailwind CSS
-
-<a href="https://github.com/binit-js/library">
-View Project →
-</a>
-
----
-
-### 🪑 Furniture
-
-A web application focused on furniture-related functionality.
-
-**Tech:** Python · Flask · SQLite
-
-<a href="https://github.com/binit-js/furniture">
-View Project →
-</a>
-
----
 
 ## `~/ currently-exploring`
 
