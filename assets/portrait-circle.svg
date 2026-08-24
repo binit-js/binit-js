@@ -1,0 +1,47 @@
+<svg width="190" height="190" viewBox="0 0 190 190"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <clipPath id="circleClip">
+      <circle cx="95" cy="95" r="82"/>
+    </clipPath>
+
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0285FF"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#E60023"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Gradient border -->
+  <circle
+    cx="95"
+    cy="95"
+    r="88"
+    fill="none"
+    stroke="url(#border)"
+    stroke-width="5"
+  />
+
+  <!-- Portrait -->
+  <image
+    href="../me.jpg"
+    x="13"
+    y="13"
+    width="164"
+    height="164"
+    preserveAspectRatio="xMidYMid slice"
+    clip-path="url(#circleClip)"
+  />
+
+  <!-- Inner border -->
+  <circle
+    cx="95"
+    cy="95"
+    r="82"
+    fill="none"
+    stroke="#0d1117"
+    stroke-width="3"
+  />
+
+</svg>
