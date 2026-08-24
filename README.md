@@ -2,49 +2,45 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0285FF,100:E60023&height=180&section=header&text=Binit%20Kumar%20Nayak&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18"
-  alt="Binit Kumar Nayak header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0285FF,100:E60023&height=150&section=header&text=Binit%20Kumar%20Nayak&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&descSize=17"
+  alt="Binit Kumar Nayak"
 />
 
 <br>
 
-<!-- PORTRAIT -->
 <img
-  src="me.jpg"
-  width="220"
-  alt="Binit Kumar Nayak portrait"
+  src="./assets/portrait-circle.svg"
+  width="190"
+  height="190"
+  alt="Binit Kumar Nayak"
 />
 
 <br>
-<br>
 
-<!-- TYPING EFFECT -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0285FF&center=true&vCenter=true&width=750&lines=Web+Developer;Machine+Learning+Enthusiast;Building+Full-Stack+Projects;Exploring+AI+%26+Data;Turning+Ideas+Into+Working+Software"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=0285FF&center=true&vCenter=true&width=700&height=35&lines=Web+Developer;Machine+Learning+Enthusiast;Building+Full-Stack+Projects;Exploring+AI+%26+Data;Turning+Ideas+Into+Working+Software"
   alt="Typing animation"
 />
 
 <br>
-<br>
 
 <a href="https://github.com/binit-js">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://linkedin.com/in/binit-kumar-nayak">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://bsky.app/profile/binit-js">
-  <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
+<img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white">
 </a>
 
 <a href="mailto:binitkumarnayak1235@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
-
 ---
 
 ## `~/ about-me`
